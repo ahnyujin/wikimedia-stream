@@ -12,3 +12,4 @@ plugins {
 
 rootProject.name = 'wikimedia_stream'
 include('app')
+include 'wikimedia-producer'
